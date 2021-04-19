@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'demo-nuxt',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ko'
     },
     meta: [
       { charset: 'utf-8' },
